@@ -8,9 +8,10 @@ Solving Multi-industry supply chain hurdles by leveraging the power of Blockchai
 
 Click on logo to jump to the relevant section
 
-| Scroll | Arbitrum |
-| ------ | -------- |
-| [<img src="https://github.com/siphyshu/bharat-chain/assets/52672162/863715b1-0a0b-411e-9eee-9bc80640097a" width=200>](#scroll) | [<img src="https://github.com/siphyshu/bharat-chain/assets/52672162/71d685d7-771d-4cde-b7b3-24910a765f81" width=200>](#arbitrum) |
+| Scroll | Arbitrum | Alliance |
+| ------ | -------- | -------- |
+| [<img src="https://github.com/siphyshu/bharat-chain/assets/52672162/863715b1-0a0b-411e-9eee-9bc80640097a" width=200>](#scroll) | [<img src="https://github.com/siphyshu/bharat-chain/assets/52672162/71d685d7-771d-4cde-b7b3-24910a765f81" width=200>](#arbitrum) | [<img src="https://github.com/siphyshu/bharat-chain/assets/52672162/f2062aac-61c1-4fe3-a70f-a82a6765eb9b">](#alliance) |
+
 
 ## Links
 Video Demo Link: https://youtu.be/_IMVXu18OCI
@@ -38,3 +39,7 @@ We used the Arbitrum Sepolia testnet to deploy the contract. The details can be 
 
 Contract Address: 0xfaF6D403947D3C9a1ee4F1b4051a9D82bc251F17
 Arbiscan Link: https://sepolia.arbiscan.io/address/0xfaf6d403947d3c9a1ee4f1b4051a9d82bc251f17
+
+## Alliance
+
+This project has the potential to serve any number of supply chains in all industries, big or small. This can be offered as a SaaS solution to brands wanting to manage their supply chain and keep it transparent. As well as, to sellers and manufacturers that wish to track their goods. This is already being done at a very large scale outside India, leveraging the power of Web3. But, it has not been adapted to the meet the tailored needs of the Indian industries. We can seize that opportunity.
